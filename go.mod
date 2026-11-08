@@ -6,7 +6,7 @@ require (
 	ariga.io/atlas v1.3.0
 	github.com/coreos/go-oidc/v3 v3.21.0
 	github.com/glebarez/sqlite v1.11.0
-	github.com/go-jose/go-jose/v4 v4.1.6
+	github.com/go-jose/go-jose/v4 v4.1.8
 	github.com/go-logr/zapr v1.3.0
 	github.com/gorilla/securecookie v1.1.2
 	github.com/moby/moby/api v1.56.1
